@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Music Website</title>
+    <style>
+      /* Add your CSS code here */
+    </style>
+  </head>
+  <body>
+    <!-- Add your header here -->
+    <header>
+      <h1>Hayden Parker Website</h1>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="music.html">Music</a></li>
+          <li><a href="images.html">Images</a></li>
+          <li><a href="about.html">About</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <!-- Add your content here -->
+    <main>
+      <section>
+        <h2>Welcome to my music website</h2>
+        <p>Here you can find all of my latest music and images. Click on the links in the navigation bar to explore.</p>
+      </section>
+    </main>
+
+    <!-- Add your footer here -->
+    <footer>
+      <p>&copy; 2023 My Music Website</p>
+    </footer>
+  </body>
+</html>
+
